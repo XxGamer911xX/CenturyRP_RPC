@@ -1,0 +1,1 @@
+C:\Windows\System32\cmd.exe /c node src/app.js
